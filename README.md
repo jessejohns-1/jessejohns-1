@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jessejohns45@gmail.com**
 
-- ⚡ Fun fact **I built my own computer**
+- ⚡ Fun fact **I built my own computer for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
