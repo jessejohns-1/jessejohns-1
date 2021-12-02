@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejohns-1&label=Profile%20views&color=0e75b6&style=flat" alt="jessejohns-1" /> </p>
 
-- 🌱 I’m currently learning **How to be a Full-Stack web dev & Technical Project Manager**
+- 🌱 I’m currently learning **Mastering React & Python**
 
 - 📫 How to reach me **jessejohns45@gmail.com**
 
-- ⚡ Fun fact **I built my own computer for fun**
+-  <h3 align="left">💻 Checkout my Website:</h3>
+<p align="left">
+<a href="https://jessejohns.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/216615/domain-registration-website.svg" alt="https://jessejohns.vercel.app/" height="30" width="40" /></a>
+</p>
+
+- ⚡ Fun fact **I taught myself how to play Guitar**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
