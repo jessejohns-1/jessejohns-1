@@ -13,9 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jessejohns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessejohns/" height="30" width="40" /></a>
 </p>
-<h3 align="left">💻 Checkout my Website:</h3>
+<h3 align="left">💻 My Portfolio Site:</h3>
 <p align="left">
-<a href="https://jessejohns.vercel.app/" target="blank"><img align="center" src="https://icon-library.com/images/white-website-icon-png/white-website-icon-png-6.jpg" alt="https://jessejohns.vercel.app/" height="30" width="40" /></a>
+<a href="https://jessejohns.vercel.app/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721725.png?token=exp=1638409596~hmac=b699d702120f26e7158059b913025bb8" alt="https://jessejohns.vercel.app/" height="30" width="40" /></a>
 </p>
 
 
