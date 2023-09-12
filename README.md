@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessejohns-1&label=Profile%20views&color=0e75b6&style=flat" alt="jessejohns-1" /> </p>
 
-- 🌱 I’m currently learning **Mastering React & Python**
+- 🌱 I’m currently **Mastering React & Python**
 
 - 📫 How to reach me **jessejohns45@gmail.com**
 
